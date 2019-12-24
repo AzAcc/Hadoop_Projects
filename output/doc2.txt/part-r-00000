@@ -1,120 +1,106 @@
-	[]
-0:0:0:0:0:0:0:1	[gpbu4586]
-10.10.0.10	[naumov, portal_admin, tishkin, antonov, gpbu3898, smirnov, fedotov, gpbu4586, voronov, makarova, voronin]
-10.10.0.138	[portal_admin, klimovgpb, eliseev, smirnov, voronov, makarova]
-10.10.0.146	[makarova]
-10.10.0.150	[fomin, eliseev, makarova]
-10.10.0.154	[makarova]
-10.10.0.158	[eremeevgpb, eliseev, smirnov, gpbu4586, voronov, makarova]
-10.10.0.162	[makarova]
-10.10.0.166	[makarova]
-10.10.0.170	[makarova]
-10.10.0.18	[portal_admin, antonov, gpbu3898, gpbu4586, makarova]
-10.10.0.22	[tishkin, antonov, sbto1, eremeevgpb, podsadnyj, gpbu4586, gpbu3001, makarova, naumov, portal_admin, titov, kluev, gpbu3898, klimovgpb, fomin, drozdovgpb, smirnov, eliseev, voronov, voronin]
-10.10.0.26	[sp_user1, portal_admin, antonov, gpbu3898, smirnov, drozdovgpb, eliseev, a.miheeva, gpbu4586, makarova]
-10.10.0.30	[tishkin, antonov, eremeevgpb, gpbu4586, makarova, naumov, portal_admin, gpbu3898, klimovgpb, smirnov, drozdovgpb, fedotov, eliseev, z.kyzmin, voronov, voronin]
-10.10.0.34	[naumov, portal_admin, antonov, gpbu3898, smirnov, eliseev, gpbu4586, makarova]
-10.10.0.46	[z.novikova, tishkin, gpbu3001, portal_admin, titov, efimovgpb, gpbu3898, drozdovgpb, fedotov, smirnov, z.kyzmin, voronin, antonov, eremeevgpb, y.kotov, anisimova, gpbu4586, makarova, r.belov, naumov, kluev, z.fedotova, klimovgpb, m.bikov, k.osipov, eliseev]
-10.10.0.58	[makarova]
-10.10.0.6	[tishkin, antonov, gpbu4586, makarova, naumov, portal_admin, kluev, gpbu3898, fomin, smirnov, fedotov, eliseev, drozdovgpb, voronov, z.kyzmin]
-10.10.0.62	[gpbu4586, makarova]
-10.10.0.74	[naumov, klimovgpb, eliseev, drozdovgpb, gpbu4586, makarova]
-10.10.0.82	[naumov, portal_admin, gpbu4586, makarova]
-10.10.0.94	[gpbu3898]
-109.226.206.118	[portal_admin, makarova]
-127.0.0.1	[naumov, portal_admin, tishkin, eliseev, gpbu4586, makarova]
-171.33.250.108	[makarova]
-192.168.88.10	[portal_admin, kluev, makarova]
-192.168.88.101	[, tishkin, antonov, eremeevgpb, gpbu4586, makarova, naumov, portal_admin, titov, kluev, klimovgpb, fomin, drozdovgpb, smirnov, eliseev, voronov]
-192.168.88.102	[klimovgpb, makarova]
-192.168.88.103	[portal_admin, makarova]
-192.168.88.104	[portal_admin, antonov, eremeevgpb, makarova]
-192.168.88.105	[antonov, klimovgpb, makarova, voronin]
-192.168.88.106	[voronov, makarova]
-192.168.88.107	[tishkin, antonov, gpbu4586, makarova, naumov, portal_admin, titov, kluev, gpbu3898, klimovgpb, fomin, smirnov, eliseev, drozdovgpb, voronov, voronin]
-192.168.88.108	[portal_admin, tishkin, antonov, gpbu3898, makarova]
-192.168.88.110	[antonov, gpbu3898, eliseev, smirnov, gpbu4586, makarova]
-192.168.88.111	[portal_admin]
-192.168.88.112	[, tishkin, antonov, gpbu4586, makarova, naumov, portal_admin, titov, kluev, gpbu3898, fomin, eliseev, smirnov, voronov]
-192.168.88.113	[makarova]
-192.168.88.114	[gpbu4586]
-192.168.88.115	[portal_admin, kluev, tishkin, antonov, makarova]
-192.168.88.116	[naumov, portal_admin, titov, tishkin, antonov, fomin, eliseev, smirnov, makarova]
-192.168.88.118	[naumov, portal_admin, titov, kluev, tishkin, antonov, fomin, eremeevgpb, smirnov, voronov, makarova]
-192.168.88.129	[gpbu4586, makarova]
-192.168.88.132	[naumov, portal_admin, titov, kluev, tishkin, antonov, gpbu3898, fomin, voronov, makarova, voronin]
-192.168.88.134	[antonov, eliseev, gpbu4586, gpbu3001, makarova]
-192.168.88.135	[portal_admin, makarova]
-192.168.88.137	[drozdovgpb, makarova]
-192.168.88.143	[portal_admin, gpbu4586, makarova]
-192.168.88.148	[portal_admin, a.miheeva, smirnov, gpbu4586]
-192.168.88.152	[portal_admin]
-192.168.88.157	[makarova]
-192.168.88.16	[makarova]
-192.168.88.161	[antonov, gpbu3898, fedotov, gpbu4586]
-192.168.88.164	[gpbu4586]
-192.168.88.17	[makarova]
-192.168.88.176	[portal_admin, antonov, anisimova, makarova]
-192.168.88.179	[naumov, titov, gpbu3898, fedotov, gpbu4586, makarova, voronin]
-192.168.88.180	[portal_admin, gpbu3898, smirnov, gpbu4586]
-192.168.88.183	[makarova]
-192.168.88.185	[titov, anisimova, makarova]
-192.168.88.186	[, naumov, portal_admin, kluev, tishkin, antonov, fomin, eliseev, smirnov, gpbu4586, makarova]
-192.168.88.187	[portal_admin, titov, tishkin, kluev, antonov, gpbu3898, fomin, eliseev, smirnov, voronov, makarova]
-192.168.88.190	[portal_admin]
-192.168.88.201	[antonov, gpbu3898, gpbu4586, makarova]
-192.168.88.204	[portal_admin]
-192.168.88.209	[gpbu4586]
-192.168.88.213	[antonov, gpbu3898, anisimova, smirnov, fedotov, drozdovgpb, voronov, makarova]
-192.168.88.219	[gpbu4586]
-192.168.88.220	[portal_admin, antonov, gpbu3898, fedotov, eliseev, gpbu4586, makarova]
-192.168.88.226	[portal_admin]
-192.168.88.227	[portal_admin, titov, tishkin, antonov]
-192.168.88.230	[antonov, makarova]
-192.168.88.232	[portal_admin]
-192.168.88.234	[portal_admin, titov, tishkin, kluev, antonov, fomin, smirnov, eliseev, voronov, makarova, portal_user]
-192.168.88.235	[portal_admin]
-192.168.88.236	[portal_admin, fomin, voronov, makarova, portal_user]
-192.168.88.239	[antonov, gpbu4586, makarova]
-192.168.88.24	[smirnov, gpbu4586]
-192.168.88.242	[makarova]
-192.168.88.245	[tishkin, anisimova, drozdovgpb, voronov, makarova]
-192.168.88.25	[portal_admin]
-192.168.88.251	[tishkin, antonov, eremeevgpb, gpbu4586, makarova, portal_admin, titov, kluev, gpbu3898, klimovgpb, fomin, smirnov, voronov]
-192.168.88.252	[tishkin, antonov, anisimova, makarova, naumov, titov, klimovgpb, gpbu3898, fomin, smirnov, fedotov, eliseev, drozdovgpb, voronov]
-192.168.88.28	[portal_admin, kluev, tishkin, antonov, eremeevgpb, fomin, anisimova, drozdovgpb, voronov, makarova]
-192.168.88.29	[portal_admin, kluev, antonov, eliseev, makarova]
-192.168.88.3	[, tishkin, antonov, eremeevgpb, anisimova, gpbu3001, gpbu4586, makarova, naumov, portal_admin, titov, kluev, efimovgpb, gpbu3898, klimovgpb, fomin, smirnov, drozdovgpb, eliseev, fedotov, voronov, voronin]
-192.168.88.3/32	[sd_user]
-192.168.88.36	[makarova]
-192.168.88.38	[portal_admin]
-192.168.88.42	[portal_admin, kluev, smirnov, makarova]
-192.168.88.43	[portal_admin, kluev, makarova]
-192.168.88.46	[makarova]
-192.168.88.47	[portal_admin]
-192.168.88.50	[makarova]
-192.168.88.53	[portal_admin]
-192.168.88.54	[naumov, portal_admin, titov, kluev, fomin, smirnov, makarova]
-192.168.88.55	[tishkin, antonov, eliseev, smirnov, makarova]
-192.168.88.58	[portal_admin, kluev, gpbu4586, makarova]
-192.168.88.60	[portal_admin, tishkin, kluev, smirnov, makarova]
-192.168.88.61	[portal_admin]
-192.168.88.64	[portal_admin, antonov, eremeevgpb, fedotov]
-192.168.88.7	[portal_admin, gpbu3898, smirnov, gpbu4586, makarova]
-192.168.88.70	[portal_admin, titov, makarova]
-192.168.88.72	[portal_admin, makarova]
-192.168.88.75	[portal_admin, makarova]
-192.168.88.78	[portal_admin, titov, kluev, fomin, smirnov, eliseev, voronov, makarova, portal_user]
-192.168.88.79	[portal_admin]
-192.168.88.8	[antonov, gpbu4586, makarova]
-192.168.88.80	[kluev, tishkin, antonov, smirnov, makarova]
-192.168.88.81	[makarova]
-192.168.88.84	[tishkin, antonov, gpbu3898, fomin, voronov, makarova]
-192.168.88.85	[tishkin, m_bulgakov, a.miheeva, gpbu3001, portal_admin, titov, gpbu3898, smirnov, fedotov, drozdovgpb, voronov, z.kyzmin, d.myasnikov, voronin, antonov, eremeevgpb, anisimova, gpbu4586, makarova, naumov, kluev, klimovgpb, m.bikov, fomin, k.osipov, eliseev]
-192.168.88.86	[makarova]
-192.168.88.87	[gpbu3898, gpbu4586, makarova]
-192.168.88.90	[naumov, portal_admin, antonov, fomin, eliseev, makarova]
-192.168.88.95	[portal_admin, makarova]
-192.168.88.97	[portal_admin]
-192.168.88.99	[, portal_admin, makarova]
-79.135.242.50	[portal_admin]
+Управление сопровождения пользователей и систем : 	Смирнов Егор
+Управление проф. развития и оценки персонала : 	Карпов Александр Валерьевич
+Отдел систем управления ИТ-поддержкой : 	Ашметков Игорь Владимирович
+Отдел сопровождения банковских операций : 	Петро Петро1
+Отдел сопровождения банковских операций : 	Федоров Александр
+Отдел сопровождения банковских операций : 	11111 222
+Отдел сопровождения банковских операций : 	Бобров Дмитрий
+Отдел сопровождения банковских операций : 	test ivanov
+Отдел сопровождения банковских операций : 	Смирнов Михаил Семенович
+Отдел сопровождения банковских операций : 	Иван Иванович1
+Отдел сопровождения банковских операций : 	Иванов Дмитрий
+Отдел сопровождения банковских операций : 	Бобров Дмитрий
+Отдел сопровождения банковских операций : 	иии
+Отдел сопровождения банковских операций : 	Петро Петро
+Отдел сопровождения банковских операций : 	123
+Отдел сопровождения банковских операций : 	Федоров Александр
+Отдел сопровождения банковских операций : 	Петро Петро2
+Отдел сопровождения банковских операций : 	Бобров Дмитрий
+Отдел сопровождения банковских операций : 	Шишкин Дмитрий
+Отдел сопровождения банковских операций : 	Шишикин Дмитрий
+Отдел корп. обучения : 	Наумов Николай
+Департамент информационных технологий общебанковских процессов : 	петров петр
+Департамент информационных технологий общебанковских процессов : 	Иванов Иван Иванович
+Департамент информационных технологий общебанковских процессов : 	барычев тестирование
+Департамент информационных технологий общебанковских процессов : 	Барычев Тест 2
+Департамент информационных технологий общебанковских процессов : 	тест тестович
+Департамент информационных технологий общебанковских процессов : 	Фа Им От
+Департамент информационных технологий общебанковских процессов : 	Иванов Иван Иванович
+Департамент информационных технологий общебанковских процессов : 	233345
+Департамент информационных технологий общебанковских процессов : 	Елисеев Иван
+Департамент информационных технологий общебанковских процессов : 	м м м
+Департамент информационных технологий общебанковских процессов : 	м м м
+Департамент информационных технологий общебанковских процессов : 	Фамилия Имя Отчество
+Департамент информационных технологий общебанковских процессов : 	и и и
+Департамент информационных технологий общебанковских процессов : 	тест тест тест
+Департамент информационных технологий общебанковских процессов : 	петров
+Департамент информационных технологий общебанковских процессов : 	ФИО
+Департамент информационных технологий общебанковских процессов : 	Барычев Тест
+Департамент информационных технологий общебанковских процессов : 	Моисеев Андрей Борисович
+Департамент информационных технологий общебанковских процессов : 	Иванов Иван
+Департамент информационных технологий общебанковских процессов : 	Сергеев Игорь Львович
+Департамент информационных технологий общебанковских процессов : 	и и и 
+Департамент информационных технологий общебанковских процессов : 	Юрий
+Департамент информационных технологий общебанковских процессов : 	иван иванов
+Департамент информационных технологий общебанковских процессов : 	тест барычев
+Департамент информационных технологий общебанковских процессов : 	п п п
+Департамент информационных технологий общебанковских процессов : 	а аа
+Департамент информационных технологий общебанковских процессов : 	Петров Дмитрий Валентинович
+Департамент информационных технологий общебанковских процессов : 	Васнецов Василий Васильевич
+Департамент информационных технологий общебанковских процессов : 	Александров Василий Васильевич
+Департамент информационных технологий общебанковских процессов : 	Брайен Михаил Александрович
+Департамент информационных технологий общебанковских процессов : 	F I O
+Департамент информационных технологий общебанковских процессов : 	фио тест 1
+Департамент информационных технологий общебанковских процессов : 	иванов иван
+Департамент информационных технологий общебанковских процессов : 	Клюев Олег
+Департамент информационных технологий общебанковских процессов : 	иванов
+Департамент информационных технологий общебанковских процессов : 	и и и
+Департамент информационных технологий общебанковских процессов : 	и и и
+Департамент информационных технологий общебанковских процессов : 	Сергеев
+Департамент информационных технологий общебанковских процессов : 	уовстыоваств
+Департамент информационных технологий общебанковских процессов : 	Елисеев
+Департамент информационных технологий общебанковских процессов : 	у к
+Департамент информационных технологий общебанковских процессов : 	123
+Департамент информационных технологий общебанковских процессов : 	барычев тестирование 1
+Департамент информационных технологий общебанковских процессов : 	Иванов Иван Иванович
+Департамент информационных технологий общебанковских процессов : 	Сергеев Сергей
+Департамент информационных технологий общебанковских процессов : 	Ф И О
+Департамент информационных технологий общебанковских процессов : 	Елисеев 
+Департамент информационных технологий общебанковских процессов : 	барычев тест
+Департамент информационных технологий общебанковских процессов : 	иванов иван
+Департамент информационных технологий общебанковских процессов : 	а а а
+Департамент информационных технологий общебанковских процессов : 	Антонов Дмитрий
+Департамент информационных технологий общебанковских процессов : 	Воронин Денис Валентинович
+Департамент информационных технологий общебанковских процессов : 	авва
+Департамент информационных технологий общебанковских процессов : 	312312
+Аппарат правления : 	444444
+Аппарат правления : 	Олег Ефимов
+Аппарат правления : 	повтор
+Аппарат правления : 	Тест
+Аппарат правления : 	Фомин Андрей
+Аппарат правления : 	666666
+Аппарат правления : 	а
+Аппарат правления : 	НИВАЗМОЖНА
+Аппарат правления : 	1111111
+Хозяйственный отдел : 	Федорчук
+Отдел учета оформления и исполнения банковских операций : 	Макарова Наталья
+Департамент администрирования регионального бизнеса : 	тест
+Департамент администрирования регионального бизнеса : 	Климов Александр
+Департамент администрирования регионального бизнеса : 	Васнецов Василий Васильевич
+Департамент администрирования регионального бизнеса : 	Еремеев Иван
+Департамент хозяйственного обеспечения : 	Федотов Виктор Анатольевич
+Департамент хозяйственного обеспечения : 	ывсфывсфвсфсфвмсусуфсу
+Департамент хозяйственного обеспечения : 	Юрий
+Департамент хозяйственного обеспечения : 	Подсадный Александр Иванович
+Департамент хозяйственного обеспечения : 	Давыдова Марина Васильевна
+Департамент хозяйственного обеспечения : 	смирнов азар олегович
+Управление оценками : 	и
+Департамент защиты информации : 	Тишкин Сергей
+Департамент по работе с персоналом : 	Админ Админ
+Департамент по работе с персоналом : 	Сидоров Сидор Стдорович
+Департамент по работе с персоналом : 	Викторов Виталий Викторовичц333
+Отдел учета оформления и исполнения банковских операций : 	м м а
+Отдел учета оформления и исполнения банковских операций : 	Воронов Алексей
+Отдел учета оформления и исполнения банковских операций : 	Тест Имя_тест
+Отдел учета оформления и исполнения банковских операций : 	Дроздов Виталий
+Отдел учета оформления и исполнения банковских операций : 	а а а
